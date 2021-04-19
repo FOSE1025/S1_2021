@@ -1,0 +1,4 @@
+Order ID,Order Date,Quarter,Employee,Customer Name,Category,Product Name,Sales,Payment Type,Last Name,First Name,Address,City,State/Province
+34,2/6/2015 0:00,1,Anne Hellung-Larsen,Company D,Baked Goods & Mixes,Chocolate Biscuits Mix,$184.00 ,Check,Lee,Christina,123 4th Street,New York,NY
+35,2/10/2015 0:00,1,Jan Kotas,Company CC,Candy,Chocolate,$127.50 ,Check,Lee,Soo Jung,789 29th Street,Denver,CO
+36,2/23/2015 0:00,1,Mariya Sergienko,Company C,Soups,Clam Chowder,"$1,930.00 ",Cash,Axen,Thomas,123 3rd Street,Los Angelas,CA

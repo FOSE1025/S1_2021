@@ -1,0 +1,8 @@
+Order ID,Order Date,Quarter,Employee,Customer Name,Category,Product Name,Sales,Payment Type,Last Name,First Name,Address,City,State/Province
+37,3/6/2015 0:00,1,Laura Giussani,Company F,Sauces,Curry Sauce,$680.00 ,Credit Card,Pérez-Olaeta,Francisco,123 6th Street,Milwaukee,WI
+38,3/10/2015 0:00,1,Anne Hellung-Larsen,Company BB,Beverages,Coffee,"$13,800.00 ",Check,Raghav,Amritansh,789 28th Street,Memphis,TN
+39,3/22/2015 0:00,1,Jan Kotas,Company H,Candy,Chocolate,"$1,275.00 ",Check,Andersen,Elizabeth,123 8th Street,Portland,OR
+40,3/24/2015 0:00,1,Mariya Sergienko,Company J,Beverages,Green Tea,$598.00 ,Credit Card,Wacker,Roland,123 10th Street,Chicago,IL
+42,3/24/2015 0:00,1,Nancy Freehafer,Company J,"Jams, Preserves",Boysenberry Spread,$250.00 ,,Wacker,Roland,123 10th Street,Chicago,IL
+42,3/24/2015 0:00,1,Nancy Freehafer,Company J,Condiments,Cajun Seasoning,$220.00 ,,Wacker,Roland,123 10th Street,Chicago,IL
+42,3/24/2015 0:00,1,Nancy Freehafer,Company J,Baked Goods & Mixes,Chocolate Biscuits Mix,$92.00 ,,Wacker,Roland,123 10th Street,Chicago,IL

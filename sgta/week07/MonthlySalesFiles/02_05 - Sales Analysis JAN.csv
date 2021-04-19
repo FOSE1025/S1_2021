@@ -1,0 +1,9 @@
+Order ID,Order Date,Quarter,Employee,Customer Name,Category,Product Name,Sales,Payment Type,Last Name,First Name,Address,City,State/Province
+30,1/15/2015 0:00,1,Anne Hellung-Larsen,Company AA,Beverages,Beer,"$570,000.00 ",Check,Toh,Karen,789 27th Street,Las Vegas,NV
+30,1/15/2015 0:00,1,Anne Hellung-Larsen,Company AA,Dried Fruit & Nuts,Dried Plums,$105.00 ,Check,Toh,Karen,789 27th Street,Las Vegas,NV
+31,1/20/2015 0:00,1,Jan Kotas,Company D,Dried Fruit & Nuts,Dried Pears,$300.00 ,Credit Card,Lee,Christina,123 4th Street,New York,NY
+31,1/20/2015 0:00,1,Jan Kotas,Company D,Dried Fruit & Nuts,Dried Apples,$530.00 ,Credit Card,Lee,Christina,123 4th Street,New York,NY
+31,1/20/2015 0:00,1,Jan Kotas,Company D,Dried Fruit & Nuts,Dried Plums,$35.00 ,Credit Card,Lee,Christina,123 4th Street,New York,NY
+32,1/22/2015 0:00,1,Mariya Sergienko,Company L,Beverages,Chai,$270.00 ,Credit Card,Edwards,John,123 12th Street,Las Vegas,NV
+32,1/22/2015 0:00,1,Mariya Sergienko,Company L,Beverages,Coffee,$920.00 ,Credit Card,Edwards,John,123 12th Street,Las Vegas,NV
+33,1/30/2015 0:00,1,Michael Neipper,Company H,Baked Goods & Mixes,Chocolate Biscuits Mix,$276.00 ,Credit Card,Andersen,Elizabeth,123 8th Street,Portland,OR
