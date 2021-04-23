@@ -1,4 +1,4 @@
-# Week 8 SGTA (External offering)
+# Week 8 SGTA (Internal offering)
 # SGTA_01 - MATLAB
 
 In this SGTA you will work on exercises that will help you towards the unit project. Remember that the project submission deadline is 19 May 2021.
@@ -50,7 +50,7 @@ This instruction uses the `;` operator to concatenate tables vertically. For mor
 
 ## Participation task
 
-Download and submit the script `import_jan_data.mlx` to the week 8 SGTA 1 participation task submission box.
+Download and submit the script `import_jan_data.mlx` to the week 8 SGTA 1 participation task submission box. Once you have done it, show your submission to your tutor so that your participation can be recorded.
 
 Your participation will count as satisfactory if the script can do activity 1 and part of activity 2.
 
@@ -97,7 +97,7 @@ Modify the workbook that you have created in activity 1 as follows:
 
 ## Participation task
 
-Download and submit the Excel file that you have created in activities 1 and 2 to the week 8 SGTA 2 participation task submission box.
+Download and submit the Excel file that you have created in activities 1 and 2 to the week 8 SGTA 2 participation task submission box. Once you have done it, show your submission to your tutor so that your participation can be recorded.
 
 Your participation will count as satisfactory if the Excel file can do activity 1 and part of activity 2.
 
