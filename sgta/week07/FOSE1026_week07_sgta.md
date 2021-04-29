@@ -7,7 +7,7 @@ During the SGTA you will be doing the second in-class test. The duration of the 
 
 ## There is no participation activity for this week's SGTA 1
 
-All students who submit the in-class test will be given the partitipation marks.
+All students who submit the in-class test will be given the participation marks.
 
 # SGTA_02
 
